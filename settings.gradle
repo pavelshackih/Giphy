@@ -1,2 +1,2 @@
-include ':app', ':libDataImpl', ':libModel'
+include ':app'
 rootProject.name='Giphy'
